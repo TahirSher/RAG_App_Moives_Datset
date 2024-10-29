@@ -1,0 +1,5 @@
+streamlit
+requests
+groq  # Use the appropriate version
+pandas
+scikit-learn
